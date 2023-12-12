@@ -1,0 +1,1348 @@
+fileFormatVersion: 2
+guid: b6ac13f4495f2ad4e87a7596d41e380a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd595443b143d84daa977ecdad99432
+      internalID: 1261864456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb341e5147ace41b1ce181fe7b8c71
+      internalID: -888350644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 274
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44dda22ee4be734485fb414cd6d42f8
+      internalID: -178689430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 273
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d40fddc50ce274ab6b0ad6eed4bf6d
+      internalID: -264026596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2ef2ee1facaa478b890d41a291855
+      internalID: 215946826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 274
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5f69fc606cc84588e37369e6a280c
+      internalID: -1043692130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 64
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e205570e77ba6c4bbf915c89e6349cd
+      internalID: 1968303669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 274
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4763387, y: 0.35030976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4fdcdc4928674e8d947afbf1b4999
+      internalID: -86994359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 271
+        width: 29
+        height: 20
+      alignment: 9
+      pivot: {x: 0.76, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef120ffb539455e47a00ed1a3b47959b
+      internalID: -1772804637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 261
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.742, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa59ab463151b4b8f1252356d42bb1
+      internalID: 1749571300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 258
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.735, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1869b705a3ef741bbf0c399c4afd1d
+      internalID: 406320429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 258
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49865532, y: 0.6201649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e11e4ec3171d24f802cad1399c5602
+      internalID: 1519650982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962afabb8ee57b43942ed66044db47d
+      internalID: 1617183304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445ac722399b4541a258a0414d91f41
+      internalID: -1117013368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48cc9cb60fac914498948e8b4af39fc
+      internalID: 1200208261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4809937708f9f4db9053a45df58fb7
+      internalID: 179594974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc627d82812fe43813afcc6efd7e95
+      internalID: -2023678010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a7ff83466f914ebe6e5702e7cceeb
+      internalID: 272438360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 242
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650795f43b5150c47a09c8355835a85f
+      internalID: 1489340883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 242
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2b4a74e343654f87cc6f7f0b1e603
+      internalID: 618851750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 241
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7c797f6dba2548a86a42c90e55ab7
+      internalID: -1683743501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 242
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aacbf06b98f9be4b9bd19919c274b14
+      internalID: 115081858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123d374155c0d14aa39806c6ccdd2e1
+      internalID: -1167656406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 214
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.26762694, y: 0.20242786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663fc25ac1e1d648acd2fc2e4ad2df3
+      internalID: -367885642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5373433, y: 0.20230007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de4069fc2f4ef042a91632d2eef51b2
+      internalID: -1583418070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada17c54b833394692ea06255bc143e
+      internalID: -1735237335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 210
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8db48d9543c54fad4e2be84557f60
+      internalID: 493539315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6c81479ef01a48a4e9c80351eedfe
+      internalID: -901615377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 210
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616404042c3c6b4caa7123b76099960
+      internalID: 1791174621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30894aa1dc429ed44b798c798dec46f2
+      internalID: -936193018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07273e2fdeeb5a647a84944f02fb85a8
+      internalID: -1972002522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 210
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1daf12dc184b344841fe5f9dead4b7
+      internalID: -1920302139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 210
+        width: 64
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c654d6ff19755bd459033abdfce9a14e
+      internalID: 1282231203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 214
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.26796672, y: 0.34350663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48045ee72b440244c8ede4ca3024f71f
+      internalID: 21761497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 214
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.26555988, y: 0.28434527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ed6312ce53374e9212a7169b4dc37
+      internalID: -1498616859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1109dd2ee6be7c4ca486e4beea25798
+      internalID: 529520671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a7bb3c886c28d49bc02756f0807009
+      internalID: -1327793956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 178
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db4ea6fd15614448f5f852877b15ea
+      internalID: 305489914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f798af68a898ae47bd6ba6bd425a7aa
+      internalID: 2010585507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 178
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb0b1e49607254886bd1b61f84c719
+      internalID: -865976570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 178
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b51e275ab776a4bbce91c055a36011
+      internalID: 1380145353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6857da182c82a42aa1a93bb882fd67
+      internalID: 693573123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 178
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18532440e08d5a7448b560fade5dba16
+      internalID: -296661590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 177
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da2a0f200000d4b8b9e8376576b32c
+      internalID: -1542489611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 178
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc3fd1d8ac928543948826989655ab8
+      internalID: 1157831374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 177
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f8db6087ed701499d2538eb1965269
+      internalID: -903784488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 109
+        width: 13
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5018639, y: 0.19032902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39271608032653943878a800304717a1
+      internalID: -1365155525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 109
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25678834, y: 0.19446215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f43975f8dac5a47868e45df19d7a3f
+      internalID: 896412626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 109
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.19756247, y: 0.25977352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5c6253c991f64ea6c85b5684b2c76
+      internalID: -827154932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 109
+        width: 33
+        height: 19
+      alignment: 9
+      pivot: {x: 0.192614, y: 0.37090543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f49bc3ad7c3e14fbd3b0b5a62eeba2
+      internalID: 1550371297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 59
+        width: 14
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5929042, y: 0.20800585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd0547ca1f05674e95a40b665f7f9ad
+      internalID: -584617632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 59
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.811551, y: 0.20719486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8135a4f5ec78e744b540a6db21d0ba4
+      internalID: -271622301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 59
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7901411, y: 0.27315733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280ae419361e2c4ab48d79305e75f5d
+      internalID: 321900062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullBlueCharacterSheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 59
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81103873, y: 0.39647523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc3a0f908f4a1d4ea370dafde5ecb23
+      internalID: 1652679939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FullBlueCharacterSheet 1_0: 1261864456
+      FullBlueCharacterSheet 1_1: -888350644
+      FullBlueCharacterSheet 1_10: 406320429
+      FullBlueCharacterSheet 1_11: 1519650982
+      FullBlueCharacterSheet 1_12: 1617183304
+      FullBlueCharacterSheet 1_13: -1117013368
+      FullBlueCharacterSheet 1_14: 1200208261
+      FullBlueCharacterSheet 1_15: 179594974
+      FullBlueCharacterSheet 1_16: -2023678010
+      FullBlueCharacterSheet 1_17: 272438360
+      FullBlueCharacterSheet 1_18: 1489340883
+      FullBlueCharacterSheet 1_19: 618851750
+      FullBlueCharacterSheet 1_2: -178689430
+      FullBlueCharacterSheet 1_20: -1683743501
+      FullBlueCharacterSheet 1_21: 115081858
+      FullBlueCharacterSheet 1_22: -1167656406
+      FullBlueCharacterSheet 1_23: -367885642
+      FullBlueCharacterSheet 1_24: -151235806
+      FullBlueCharacterSheet 1_25: -1583418070
+      FullBlueCharacterSheet 1_26: -1735237335
+      FullBlueCharacterSheet 1_27: 493539315
+      FullBlueCharacterSheet 1_28: -901615377
+      FullBlueCharacterSheet 1_29: 1791174621
+      FullBlueCharacterSheet 1_3: -264026596
+      FullBlueCharacterSheet 1_30: -936193018
+      FullBlueCharacterSheet 1_31: -1972002522
+      FullBlueCharacterSheet 1_32: -1920302139
+      FullBlueCharacterSheet 1_33: 1282231203
+      FullBlueCharacterSheet 1_34: 21761497
+      FullBlueCharacterSheet 1_35: -1498616859
+      FullBlueCharacterSheet 1_36: 529520671
+      FullBlueCharacterSheet 1_37: -1327793956
+      FullBlueCharacterSheet 1_38: 305489914
+      FullBlueCharacterSheet 1_39: 2010585507
+      FullBlueCharacterSheet 1_4: 215946826
+      FullBlueCharacterSheet 1_40: -865976570
+      FullBlueCharacterSheet 1_41: 1380145353
+      FullBlueCharacterSheet 1_42: 693573123
+      FullBlueCharacterSheet 1_43: -296661590
+      FullBlueCharacterSheet 1_44: -1542489611
+      FullBlueCharacterSheet 1_45: 1157831374
+      FullBlueCharacterSheet 1_46: -903784488
+      FullBlueCharacterSheet 1_47: 1131731730
+      FullBlueCharacterSheet 1_48: 756037187
+      FullBlueCharacterSheet 1_49: -1627099113
+      FullBlueCharacterSheet 1_5: -1043692130
+      FullBlueCharacterSheet 1_50: 1128847666
+      FullBlueCharacterSheet 1_51: -39863752
+      FullBlueCharacterSheet 1_52: -252143827
+      FullBlueCharacterSheet 1_53: 1463748469
+      FullBlueCharacterSheet 1_54: -1325157082
+      FullBlueCharacterSheet 1_55: -1365155525
+      FullBlueCharacterSheet 1_56: 896412626
+      FullBlueCharacterSheet 1_57: -827154932
+      FullBlueCharacterSheet 1_58: 1152077559
+      FullBlueCharacterSheet 1_59: 1550371297
+      FullBlueCharacterSheet 1_6: 1968303669
+      FullBlueCharacterSheet 1_60: -1073312015
+      FullBlueCharacterSheet 1_61: -91731258
+      FullBlueCharacterSheet 1_62: 1060996506
+      FullBlueCharacterSheet 1_63: 869918885
+      FullBlueCharacterSheet 1_64: -584617632
+      FullBlueCharacterSheet 1_65: -1811240920
+      FullBlueCharacterSheet 1_66: 1583630105
+      FullBlueCharacterSheet 1_67: 1837848782
+      FullBlueCharacterSheet 1_68: -913476557
+      FullBlueCharacterSheet 1_69: -266516122
+      FullBlueCharacterSheet 1_7: -86994359
+      FullBlueCharacterSheet 1_70: 502551300
+      FullBlueCharacterSheet 1_71: -271622301
+      FullBlueCharacterSheet 1_72: 321900062
+      FullBlueCharacterSheet 1_73: 1652679939
+      FullBlueCharacterSheet 1_8: -1772804637
+      FullBlueCharacterSheet 1_9: 1749571300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

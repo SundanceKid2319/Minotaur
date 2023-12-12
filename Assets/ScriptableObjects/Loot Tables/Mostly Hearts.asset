@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f2ec78ddc0c0434cbb3e340041219f2, type: 3}
+  m_Name: Mostly Hearts
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 8679216729413239199, guid: 58c5372a218dafe4eabe197b73effe15, type: 3}
+    lootChance: 0
+  - thisLoot: {fileID: 8323815956861655465, guid: 632a3a25a77009848bdfded9d2fdb785, type: 3}
+    lootChance: 0
