@@ -13,3 +13,22 @@ The more interesting characters that take on the theme of the greek laberynth si
 Other than that I believe the maze is fully solveable, Im just a little bummed out that I didn't have time to code the mechanisms of the more intricate puzzles and the boss fights. But this is my first time working in Unity and I accomplished more than I thought I could.
 
 Thank you!
+
+
+Credit to asset vendors and Unity C# Youtube Instructors:
+
+List of Artists
+
+Mattz Art: https://xzany.itch.io/ 
+Armando Montero: https://opengameart.org/users/armm1998 
+GameKrazzy: Gamekrazzy - itch.io
+The OFC Media: TheOFCMedia - itch.io
+Purple Voodoo: Purple Voodoo - Asset Store (unity.com)
+GibbonGL: GibbonGL - itch.io
+Balloon Cart: Balloon Cart - itch.io
+
+Unity C# Coding Teachers
+
+MisterTaftCreates: Mister Taft Creates - YouTube
+CodingInFlow: Coding in Flow - YouTube
+CodeMonkey: Code Monkey - YouTube
