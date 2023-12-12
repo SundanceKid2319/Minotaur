@@ -17,18 +17,26 @@ Thank you!
 
 Credit to asset vendors and Unity C# Youtube Instructors:
 
-List of Artists
+List of Artists:
 
-Mattz Art: https://xzany.itch.io/ 
-Armando Montero: https://opengameart.org/users/armm1998 
-GameKrazzy: Gamekrazzy - itch.io
-The OFC Media: TheOFCMedia - itch.io
-Purple Voodoo: Purple Voodoo - Asset Store (unity.com)
-GibbonGL: GibbonGL - itch.io
-Balloon Cart: Balloon Cart - itch.io
+   Mattz Art: https://xzany.itch.io/ 
+   
+   Armando Montero: https://opengameart.org/users/armm1998 
+   
+   GameKrazzy: Gamekrazzy - itch.io
+   
+   The OFC Media: TheOFCMedia - itch.io
+   
+   Purple Voodoo: Purple Voodoo - Asset Store (unity.com)
+   
+   GibbonGL: GibbonGL - itch.io
+   
+   Balloon Cart: Balloon Cart - itch.io
 
-Unity C# Coding Teachers
+Unity C# Coding Teachers:
 
-MisterTaftCreates: Mister Taft Creates - YouTube
-CodingInFlow: Coding in Flow - YouTube
-CodeMonkey: Code Monkey - YouTube
+   MisterTaftCreates: Mister Taft Creates - YouTube
+   
+   CodingInFlow: Coding in Flow - YouTube
+   
+   CodeMonkey: Code Monkey - YouTube
